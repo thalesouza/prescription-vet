@@ -1,4 +1,10 @@
-# 🚀 Welcome to your new awesome project!
+# Prescription Veterinary
+
+### I'm just being laze, that's why I'll build this auto prescription webapp
+
+<br>
+
+**First commit** ✅
 
 This project has been created using **webpack-cli**, you can now run
 
